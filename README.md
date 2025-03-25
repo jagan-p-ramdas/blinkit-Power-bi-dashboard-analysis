@@ -35,7 +35,7 @@ Outlet Establishment Trend - Yearly trend of new outlets
 
 **📊 Dashboard Features**
 
-KPI Metrics:
+ 1. KPI Metrics:
 
 Total Sales (1.20M)
 
@@ -45,7 +45,7 @@ Number of Items Sold (9K+)
 
 Average Product Rating (4 stars)
 
-Dynamic Filtering:
+ 2. Dynamic Filtering:
 
 Outlet Location, Outlet Size, Item Type filters
 
@@ -57,13 +57,13 @@ Fat Content Distribution
 
 Outlet Sales by Category (Medium, Small, High)
 
-Sales by Outlet Type & Location:
+ 3. Sales by Outlet Type & Location:
 
 Performance of different outlet types (Supermarkets, Grocery Stores, etc.)
 
 Tier-wise sales analysis
 
-**Trend Analysis:**
+ 4 .Trend Analysis:**
 
 Outlet Establishment growth over the years
 
